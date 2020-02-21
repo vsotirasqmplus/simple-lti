@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc2d794e-bb63-439f-81e2-fc2ddf969e7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectId" id="1Y5WBB1I6V2imFJXWsxkiA086qW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2d794e-bb63-439f-81e2-fc2ddf969e7c" name="Default Changelist" comment="" />
+      <created>1582232799500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582232799500</updated>
+      <workItem from="1582232807144" duration="5505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="0" key="#PHP" timestamp="1582233239731">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.768@0.0.1366.768" timestamp="1582233239731" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582232808022">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582232808022" />
+    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1582234375332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1582234375332" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/ims-blti/OAuth.php</url>
+          <line>68</line>
+          <properties>
+            <option name="className" value="\OAuthSignatureMethod_HMAC_SHA1" />
+            <option name="methodName" value="build_signature" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
